@@ -11,3 +11,5 @@ The rest of the stuff in the repository is simply SteamVR gunk.
 ### Points you should care about:
 - Don't forget to enable the camera first in the SteamVR Settings panel.
 - You may need to drop the refresh rate from 60 down to e.g., 30 if you are experiencing tracking problems.
+
+![SteamVR Camera Settings](https://cloud.githubusercontent.com/assets/19623378/21571710/1fbc67f6-ced2-11e6-9d32-3a26d9033dd9.png)
